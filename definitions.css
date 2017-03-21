@@ -1,0 +1,21 @@
+body
+{
+	background: aliceblue;
+	font-family: monospace;
+	margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    margin-left: 30px;
+}/*body*/
+
+h1
+{
+	border-left: 4px solid salmon;
+}/*h1*/
+
+dt
+{
+	border-left: 4px solid salmon;
+	text-align: justify;
+	line-height: 300%;
+}/*dt*/

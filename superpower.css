@@ -1,0 +1,22 @@
+body
+{
+	font-family: Fantasy;
+	background: lavender;
+	color: #4682B4;
+	text-align: justify;
+} /*body*/
+
+h1
+{
+	color: #4682B4;
+} /*h*/
+
+img
+{
+    display: block;
+    margin: auto;
+    width: 20%;
+	border-radius: 8px;
+	border: 6px solid #4682B4;
+	border-radius: 5px;
+} /*body*/
